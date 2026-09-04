@@ -1,0 +1,19 @@
+{
+    "name": "Prem Easwaran — Flutter Developer",
+    "short_name": "Prem Easwaran",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0A0A0A",
+    "theme_color": "#0A0A0A",
+    "description": "Prem Easwaran, Flutter developer building cross-platform mobile apps for IoT-integrated hardware.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "favicon.svg",
+            "sizes": "256x256",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        }
+    ]
+}
